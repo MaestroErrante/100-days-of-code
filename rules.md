@@ -1,12 +1,12 @@
 # Rules of the 100 Days Of Code Challenge
 
-## Main Commitment
+## Learn Javascript in Deep
 
 ### _I will code for at least an hour every day for the next 100 days._
 
 #### Start Date
 
-June 25th, 2016. [PUT YOUR DATE HERE]
+April 8th, 2021.
 
 ## Additional Rules
 
