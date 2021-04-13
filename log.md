@@ -23,3 +23,11 @@
 **Notas**: Se necesita resetear los valores al cerrar la pantalla de resultados, es molesto tener que actualizar el código par volver a probarlo
 
 **Link(s) al proyecto**: [BMI Calculator](https://github.com/MaestroErrante/BMI-Calculator)
+
+### Día 4: Abril 11, 2021
+
+**Progreso del Día**: Resetear los valores y resultados previos al cerrrar la ventana
+
+**Notas**: Volver a poner los valores de default después de cerrar la ventana de resultados fue díficil, se tuvo que pensar mucho en los scopes y en que bloque poner la ventana de cerrar para que Javascript pudiera leer todas las variables
+
+**Link(s) al proyecto**: [BMI Calculator](https://github.com/MaestroErrante/BMI-Calculator)
